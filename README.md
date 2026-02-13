@@ -11,7 +11,7 @@ Enabled static website hosting on the bucket.
 Uploaded the website files (HTML and images).
 Accessed the S3 website endpoint to confirm the site was live.
 
-2️⃣** Configured Public Access with a Bucket Policy**
+2️⃣**Configured Public Access with a Bucket Policy**
 Added a bucket policy to allow public read access.
 Ensured users could view the website without manually setting permissions on each object.
 Maintained security by restricting write access.
